@@ -6,7 +6,6 @@ alter = 25  # Integer
 
 # Wert einer Variable ändern
 alter = 26
-test = 0
 
 # Typumwandlung (Casting)
 alter_str = str(alter)  # Integer zu String
